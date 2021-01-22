@@ -17,9 +17,9 @@
 <br><br>
 
 ## これまでに制作した作品
-<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/overView_img.jpg" width="70%">
+<img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/overView_img.jpg">
 
-<br
+<br>
  
  [詳細はこちら >>>](https://github.com/Akito-ra/markdown_sheet)
 
