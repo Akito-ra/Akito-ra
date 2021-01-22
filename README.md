@@ -9,12 +9,12 @@
 
 <br><br>
 ## 研究
-### テーマ：手軽に全方位コンテンツの制作が行える高臨場感コンテンツデザインシステム
+### テーマ：全方位コンテンツの手軽な政策を可能とする高臨場感コンテンツデザインシステム
 <br><br>
 
 ## 課外活動
 ### KANAMEプロジェクト, KIESプロジェクト
-<br><br
+<br><br>
 
 ## これまでに制作した作品
 <img src="https://github.com/Akito-ra/markdown_sheet/blob/main/img/KANAME_img.jpg" width="70%">
