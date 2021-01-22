@@ -5,7 +5,7 @@
 |職業|学生|
 |専攻|情報工学|
 |趣味・特技|イラスト作成, キャラクターデザイン<br>カラオケ, フットサル, 映画鑑賞|
-|技術|Webアプリケーション, 3DCG, 音声制御, Unity, docker, Photoshop　.etc|
+|技術|Webアプリケーション, 3DCG<br>音声制御, Unity, docker, Photoshop　.etc|
 
 <br><br>
 ## 研究
